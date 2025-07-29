@@ -1,16 +1,25 @@
-# emllakapp
+# 🏠 Emllak Mobile Application
 
-emllak moibile application
+**Emllak** is a modern real estate mobile application designed to simplify the process of browsing, buying, and renting properties. The app provides users with a smooth, intuitive experience for exploring real estate listings, viewing property details, and contacting sellers or agents directly.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🏘️ Browse latest property listings
+- 🔍 Filter by location, price, type, and more
+- 📱 View detailed information and photos of each property
+- 💬 Contact property owners or agents directly from the app
+- ❤️ Save favorite properties for later
+- 🌐 Multi-language support (Dari, Pashto, English)
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Home Screen](assets/screens/home.png)
+![Property Detail](assets/screens/property_detail.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Flutter** – Cross-platform mobile development
+- **Dart** – Core programming language
+- **REST API** – Backend communication
+- **Firebase** *(if applicable)* – Authentication, Analytics, etc.
+
