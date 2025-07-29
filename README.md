@@ -20,8 +20,9 @@
 
 ## 🛠️ Technologies Used
 
-- **Flutter** – Cross-platform mobile development
-- **Dart** – Core programming language
-- **REST API** – Backend communication
-- **Firebase** *(if applicable)* – Authentication, Analytics, etc.
+- **Flutter** – Cross-platform mobile development  
+- **Dart** – Core programming language  
+- **Supabase** – Database and authentication backend  
+- **Firebase** – Push notifications and analytics  
+- **REST API** – Backend communication  
 
