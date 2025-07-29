@@ -13,8 +13,10 @@
 
 ## 📸 Screenshots
 
-![Home Screen](assets/screens/home.png)
-![Property Detail](assets/screens/property_detail.png)
+![Screen 1](assets/screens/screen1.jpg)  
+![Screen 2](assets/screens/screen2.jpg)  
+![Screen 3](assets/screens/screen3.jpg)  
+![Screen 4](assets/screens/screen4.jpg)
 
 ## 🛠️ Technologies Used
 
